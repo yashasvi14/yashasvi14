@@ -17,6 +17,12 @@
 
 ## 📊 GitHub Stats:
 github-readme-stats-red-iota-66.vercel.app
+<a>
+ ![GitHub stats]<img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api?username=yashasvi14" />
+</a>
+<a>
+  ![Top Langs]<img height=200 align="center" src="github-readme-stats-red-iota-66.vercel.app/api/top-langs/?username=yashasvi14&hide_progress=true" />
+</a>
 [![GitHub stats](https://github-readme-stats-red-iota-66.vercel.app/api?username=yashasvi14)]
 ![Top Langs](https://github-readme-stats-red-iota-66.vercel.app/api/top-langs/?username=yashasvi14&hide_progress=true)
 
@@ -24,5 +30,5 @@ github-readme-stats-red-iota-66.vercel.app
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=yashasvi14&theme=omni&hide_border=false)<br/> -->
 
 ## 📫 How to reach me:
-<a href="mailto:sharma.yasha@northeastern.edu">![sharma.yasha@northeastern.edu](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Gmail&logoColor=white)</a> 
+<a href="mailto:yashasvisharma@outlook.com">![yashasvisharma@outlook.com](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Gmail&logoColor=white)</a> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ys14/) 
