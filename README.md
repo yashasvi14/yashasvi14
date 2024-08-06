@@ -21,7 +21,7 @@
  <img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api?username=yashasvi14" />
 </a>
 <a>
- <img height=200 align="center" src="github-readme-stats-red-iota-66.vercel.app/api/top-langs/?username=yashasvi14&layout=compact&langs_count=8&card_width=320" />
+ <img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api/top-langs?username=yashasvi14&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--[![Top Langs](https://github-readme-stats-red-iota-66.vercel.app/api/top-langs/?username=yashasvi14&layout=donut-vertical)](https://github.com/yashasvi14/github-readme-stats) -->
