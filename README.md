@@ -17,15 +17,12 @@
 
 ## 📊 GitHub Stats:
 
-<a>
- <img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api?username=yashasvi14" />
+<a href="https://github.com/yashasvi14/github-readme-stats">
+ <img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api?username=yashasvi14&hide=issues&show_icons=true&rank_icon=github&include_all_commits=true" />
 </a>
-<a>
- <img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api/top-langs?username=yashasvi14&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/yashasvi14/convoychat">
+ <img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api/top-langs?username=yashasvi14&layout=compact&card_width=320&hide_progress=true" />
 </a>
-
-<!--[![Top Langs](https://github-readme-stats-red-iota-66.vercel.app/api/top-langs/?username=yashasvi14&layout=donut-vertical)](https://github.com/yashasvi14/github-readme-stats) -->
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=yashasvi14&theme=omni&hide_border=false)<br/> -->
 
 ## 📫 How to reach me:
 <a href="mailto:yashasvisharma@outlook.com">![yashasvisharma@outlook.com](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Gmail&logoColor=white)</a> 
