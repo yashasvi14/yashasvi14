@@ -17,8 +17,10 @@
 
 ## 📊 GitHub Stats:
 github-readme-stats-red-iota-66.vercel.app
+[![GitHub stats](https://github-readme-stats-red-iota-66.vercel.app/api?username=yashasvi14)]
+![Top Langs](https://github-readme-stats-red-iota-66.vercel.app/api/top-langs/?username=yashasvi14&hide_progress=true)
 
-[![Top Langs](https://github-readme-stats-red-iota-66.vercel.app/api/top-langs/?username=yashasvi14&layout=donut-vertical)](https://github.com/yashasvi14/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats-red-iota-66.vercel.app/api/top-langs/?username=yashasvi14&layout=donut-vertical)](https://github.com/yashasvi14/github-readme-stats) -->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=yashasvi14&theme=omni&hide_border=false)<br/> -->
 
 ## 📫 How to reach me:
