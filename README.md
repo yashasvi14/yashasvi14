@@ -18,10 +18,10 @@
 ## 📊 GitHub Stats:
 
 <a href="https://github.com/yashasvi14/github-readme-stats">
- <img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api?username=yashasvi14&hide=issues&show_icons=true&rank_icon=github&include_all_commits=true" />
+ <img height=150 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api?username=yashasvi14&hide=issues&show_icons=true&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/yashasvi14/convoychat">
- <img height=200 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api/top-langs?username=yashasvi14&layout=compact&card_width=320&hide_progress=true" />
+ <img height=150 align="center" src="https://github-readme-stats-red-iota-66.vercel.app/api/top-langs?username=yashasvi14&layout=compact&card_width=320&hide_progress=true" />
 </a>
 
 ## 📫 How to reach me:
