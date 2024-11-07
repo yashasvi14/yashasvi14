@@ -1,19 +1,74 @@
 
-<!-- [Yashasvi Sharma Banner Image](./Banner.png) -->
+ ![Yashasvi Sharma Banner Image](/images/Github%20Banner.png)
 
 
 ## About Me:
-  <div  style="float: right; margin: 10px;"><img align= "right" src="https://condaluna.com/assets/stickers/work.gif" alt="Penguin" width="18%"/> </div>
-🎓 <i>Currently </i>: MS Data Analytics with Machine Learning major at Northeastern University. </br>
-      🎓 <i>Previous </i>: BTech Mechanical Engineering at VIT University, Vellore.</br>
-      💻 Proficient in Python, SQL, R, and various data science libraries.</br>
-      💼 Experienced in streamlining data processes and devising efficient solutions.</br>
-      ⚽ Passionate about sports, particularly Cricket and Table Tennis.</br>
-      🌄 Enjoys spending time outdoors, finding peace in scenic nature and sunsets.</br>
+
+- 🎓 **Education**:
+  - *Current*: MS Data Analytics Engineering at Northeastern University
+  - *Previous*: BTech Mechanical Engineering at VIT University, Vellore
+
+- 💻 **Skills**:
+  - Proficient in Python, SQL, R, and various data science libraries
+  - Experienced in streamlining data processes and devising efficient solutions
+
+- ⚽ **Interests**:
+  - Passionate about sports, particularly Cricket and Table Tennis
+  - Enjoys spending time outdoors, finding peace in scenic nature and sunsets
 
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## 💻 Tech Stack
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Programming & Databases</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j" />
+    </td>
+  </tr>
+  <tr>
+    <td>Libraries</td>
+    <td>
+      <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy" />
+      <img src="https://img.shields.io/badge/-NLTK-9C27B0?style=flat" alt="NLTK" />
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
+      <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat" alt="PySpark" />
+      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/-Statsmodels-D62728?style=flat" alt="Statsmodels"/>
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    </td>
+  </tr>
+  <tr>
+    <td>DevOps & Visualization Tools</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat" alt="MLflow"/>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat" alt="Airflow"/>
+      <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+      <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats:
 
@@ -25,5 +80,8 @@
 </a>
 
 ## 📫 How to reach me:
-<a href="mailto:yashasvisharma@outlook.com">![yashasvisharma@outlook.com](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Gmail&logoColor=white)</a> 
+<a href="mailto:yashasvisharma@outlook.com">![yashasvisharma@outlook.com](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ys14/) 
+[![Static Badge](https://img.shields.io/badge/Portfolio-blue?logo=internetcomputer)
+](https://yashasvi14.github.io/)
+
