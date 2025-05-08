@@ -1,21 +1,21 @@
-
- ![Yashasvi Sharma Banner Image](/images/Github%20Banner.png)
-
+![Yashasvi Sharma Banner Image](/images/Github%20Banner.png)
 
 ## About Me:
 
 - 🎓 **Education**:
-  - *Current*: MS Data Analytics Engineering at Northeastern University
-  - *Previous*: BTech Mechanical Engineering at VIT University, Vellore
 
-- 💻 **Skills**:
-  - Proficient in Python, SQL, R, and various data science libraries
-  - Experienced in streamlining data processes and devising efficient solutions
+  - _Graduated_: MS in Data Analytics Engineering, Northeastern University (GPA: 3.91/4.0)
+  - _Previous_: BTech in Mechanical Engineering, VIT University, Vellore
+
+- 💼 **Professional Summary**:
+
+  - Data Analytics Engineer with 3.5+ years of experience in predictive modeling, NLP, and cloud-based solutions.
+  - Skilled in developing scalable machine learning pipelines and creating impactful dashboards.
+  - Passionate about transforming data into actionable insights for product optimization and business impact.
 
 - ⚽ **Interests**:
-  - Passionate about sports, particularly Cricket and Table Tennis
-  - Enjoys spending time outdoors, finding peace in scenic nature and sunsets
-
+  - Enthusiastic about Cricket, Table Tennis, and spending time outdoors
+  - Enjoys exploring nature and scenic sunsets
 
 ## 💻 Tech Stack
 
@@ -63,6 +63,7 @@
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat" alt="Airflow"/>
       <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+      <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
       <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat" alt="Tableau"/>
       <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat" alt="Power BI"/>
       <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
@@ -80,8 +81,8 @@
 </a>
 
 ## 📫 How to reach me:
+
 <a href="mailto:yashasvisharma@outlook.com">![yashasvisharma@outlook.com](https://img.shields.io/badge/Outlook-%230077B5.svg?logo=Gmail&logoColor=white)</a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ys14/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ys14/)
 [![Static Badge](https://img.shields.io/badge/Portfolio-blue?logo=internetcomputer)
 ](https://yashasvi14.github.io/)
-
